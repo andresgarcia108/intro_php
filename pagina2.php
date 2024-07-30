@@ -9,7 +9,7 @@
 <body>
     <h1>SISTEMAS</h1>
     <h2>GUanentá</h2>
-    <br>
+    echo "<br>";
     <?php
         $a = 10;
         $b = 15;
